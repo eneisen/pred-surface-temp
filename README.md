@@ -1,5 +1,5 @@
 # Prediction of Surface Temperature in Continuous Casting of Steel Using Artificial Neural Networks
-This project includes the supplementary python code for my Bachelor's thesis about the predicition of the surface temperature in the continouus casting of stell using artificial networks such as Multilayer Perceptrons (MLPs) and Long Short Term Memory networks (LSTMs). 
+This project includes the supplementary python code for my Bachelor's thesis about the predicition of the surface temperature in the continouus casting of stell using artificial networks such as Multilayer Perceptrons (MLPs) and Long Short Term Memory networks (LSTMs). The following Abstract provides an overview of the thesis.
 
 # Abstract 
 This thesis presents an approach to use Artificial Neural Networks to model the process of continuous casting of steel in order to predict the surface temperature the steel strand.
